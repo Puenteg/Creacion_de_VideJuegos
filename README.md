@@ -24,8 +24,12 @@
 ## Introducción
 
 - Nombre del proyecto: ChopperAdventure
-- Objetivo.
-- Plataforma ,Género, Clasificación, Personajes, Escenario.
+- Objetivo: El juego trata sobre un perro arriba de un auto persiguiendo a dos gatos que le robaron sus juguetes.
+- Plataforma:
+- Género:
+- Clasificación:
+- Personajes:
+-  Escenario:
 - Historia
 - Personajes
 - Reglas de Juego.
