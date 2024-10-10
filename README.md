@@ -67,7 +67,7 @@
 
 ## Planificación
 
-![4337008](https://github.com/Puenteg/Creacion_de_VideJuegos/blob/main/Prototipo2.pdf)
+![Prototipo-2](https://github.com/Puenteg/Creacion_de_VideJuegos/blob/main/Prototipo2.pdf)
 
 ## Autores
 Bill Gates & Steve Jobs
