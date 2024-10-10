@@ -15,7 +15,7 @@
 ## Contenido
 
 - [Introducción](#introducción)
-  <sub> Hola</sub>
+  <sup> Hola</sup>
 - [Código Fuente](#código-fuente)
 - [Planificación](#planificación)
 - [Autores](#autores)
