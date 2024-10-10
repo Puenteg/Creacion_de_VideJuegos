@@ -35,7 +35,7 @@
 ## Código Fuente
 
 * Lección 1
-  * > [Prototipo 1] (https://github.com/Puenteg/Creacion_de_VideJuegos/blob/main/Prototipo01.unitypackage)
+* [Prototipo 1](https://github.com/Puenteg/Creacion_de_VideJuegos/blob/main/Prototipo01.unitypackage)
   * > Laboratorio
   * > Desafío
   * > Prueba
