@@ -15,7 +15,6 @@
 ## Contenido
 
 - [Introducción](#introducción)
-  <sup> Hola</sup>
 - [Código Fuente](#código-fuente)
 - [Planificación](#planificación)
 - [Autores](#autores)
@@ -24,7 +23,7 @@
 
 ## Introducción
 
-- Nombre del proyecto
+- Nombre del proyecto: ChopperAdventure
 - Objetivo.
 - Plataforma ,Género, Clasificación, Personajes, Escenario.
 - Historia
