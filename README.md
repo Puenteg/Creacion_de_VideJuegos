@@ -15,6 +15,7 @@
 ## Contenido
 
 - [Introducción](#introducción)
+  <sub> Hola</sub>
 - [Código Fuente](#código-fuente)
 - [Planificación](#planificación)
 - [Autores](#autores)
@@ -36,7 +37,7 @@
 
 * Lección 1
 * [Prototipo 1](https://github.com/Puenteg/Creacion_de_VideJuegos/blob/main/Prototipo01.unitypackage)
-  * > Laboratorio
+  * > Laboratorio 
   * > Desafío
   * > Prueba
 * Lección 2
