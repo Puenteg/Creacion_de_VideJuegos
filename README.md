@@ -40,7 +40,7 @@
   * > Desafío
   * > Prueba
 * Lección 2
-  [Prototipo 2](https://github.com/Puenteg/Creacion_de_VideJuegos/blob/main/prototipo2_GIDS4104.exe)
+* [Prototipo 2](https://github.com/Puenteg/Creacion_de_VideJuegos/blob/main/prototipo2_GIDS4104.exe)
   * > Laboratorio
   * > Desafío
   * > Prueba
